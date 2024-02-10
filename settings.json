@@ -1,0 +1,24 @@
+{
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Min Dark",
+    "explorer.confirmDragAndDrop": false,
+    "symbols.hidesExplorerArrows": false,
+
+    // configurações de extensões acima
+
+    "editor.fontFamily": "JetBrains Mono", // fontstyle
+    "workbench.editor.labelFormat": "short", // estilização dos arquivo abertos
+    "explorer.compactFolders": false, // formato das pastas
+    "breadcrumbs.enabled": false, // path do arquivo sendo mostrada acima do código, ocupa espaço para nada 
+    "workbench.activityBar.location": "hidden", // desabilita a interface na esquerda (extensões, arquivos, search)...
+    "editor.minimap.enabled": false, // desabilita o minimapa do código localizado a direita do seu código 
+    "editor.scrollbar.horizontal": "hidden", // desabilita a scrollbar horizontall
+    "editor.scrollbar.vertical": "hidden", // desabilita a scrollbar vertical
+    "window.commandCenter": false, // desabilita a barra de pesquina no centro superior do vscode (da mais espaço para a sua tela)
+    "workbench.layoutControl.enabled": false, // desabilita os controles de layout no canto superior direito do vscode (da mais espaço para a sua tela)
+    "apc.stylesheet": {
+        ".title-label > h2": "display: none", // retira o explorer na aba de arquivos
+        ".monaco-workbench .part.sidebar .title-actions .actions-container": "justify-content: flex-start", // coloca o controlador de arquivos para a esquerda
+        ".monaco-workbench .part>.title>.title-label": "padding-left: 0px" // ajuste de posição das configurações de arquivos
+    }
+}
