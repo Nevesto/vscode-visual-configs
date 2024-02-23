@@ -29,7 +29,7 @@ Or you can use another font of your choice, and to import it, just go to the set
 ### Visual Studio Code Settings 
 
 Now open your vscode and use this shortcut: ``ctrl + shift + p``. 
-And then type "Preferences: Open Default Settings (JSON)" and open:
+And then type "Preferences: Open User Settings (JSON)" and open:
 
 ![settings](https://github.com/Nevesto/vscode-visual-configs/assets/87545167/01484940-8c3a-4a0d-b5c2-1fa2eed09410)
 
