@@ -31,7 +31,7 @@ Or you can use another font of your choice, and to import it, just go to the set
 Now open your vscode and use this shortcut: ``ctrl + shift + p``. 
 And then type "Preferences: Open User Settings (JSON)" and open:
 
-![settings](https://github.com/Nevesto/vscode-visual-configs/assets/87545167/01484940-8c3a-4a0d-b5c2-1fa2eed09410)
+![settings](https://github.com/Nevesto/vscode-visual-configs/assets/87545167/6d215824-c32f-4387-a6a8-b9c674600343)
 
 This took you to the github settings file, so copy the entire contents of the "settings.json" file, and paste it there!
 
